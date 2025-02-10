@@ -1,6 +1,6 @@
 # class-imbalance_medical-prediction
 
-## Project introduction
+## Project description
 Medical prediction tasks involve the application of predictive analyses to complex medical cases, utilizing extensive medical datasets. However, these tasks commonly encounter the challenge of class imbalance, which can exert varying degrees of influence on their performance.This project outlines an experimental approach for a medical prediction task aimed at forecasting Acute Kidney Injury (AKI) risk.
 
 ## Dataset
