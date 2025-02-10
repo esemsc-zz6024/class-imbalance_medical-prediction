@@ -13,8 +13,8 @@ The experimental results indicate that the RUS method performs well in all three
 
 This project evaluated and analyzed various data resampling methods and their priorities in different scenarios. It summarized the following ideas:
 
-When the IR is between 1 and 5, if the assessment index for model training is the PR curve , so data resampling methods can be excluded. If the assessment index is not considered, the RUS method is recommended.
+1. When the IR is between 1 and 5, if the assessment index for model training is the PR curve , so data resampling methods can be excluded. If the assessment index is not considered, the RUS method is recommended.
 
-When the IR is between 5 and 10, either over-sampling or combined-sampling methods are preferred.
+2. When the IR is between 5 and 10, either over-sampling or combined-sampling methods are preferred.
 
-When the IR is between 10 and 100, it is recommended to use the combined-sampling method.
+3. When the IR is between 10 and 100, it is recommended to use the combined-sampling method.
